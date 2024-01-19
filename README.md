@@ -1,6 +1,8 @@
 # Sobre mim 👋
 
-Olá, meu nome é Isabelle, tenho 21 anos de idade e trabalho como QA desde os 17 anos e venho estudando e praticando cada vez mais. Neste portfólio, gostaria de compartilhar meu conhecimento sobre controle de qualidade e mostrar minhas habilidades práticas que adquiri por meio de cursos e auto-estudo. Estou determinado a continuar a crescer neste campo.
+Olá, meu nome é Isabelle, tenho 21 anos de idade e trabalho como QA desde os 17 anos e venho estudando e praticando cada vez mais. 
+
+Neste portfólio, gostaria de compartilhar meu conhecimento sobre controle de qualidade e mostrar minhas habilidades práticas que adquiri por meio de cursos e auto-estudo.
 
 [🔗 Meu perfil no Linkedin](https://www.linkedin.com/in/isabelle-oliveira-silva/)
 
